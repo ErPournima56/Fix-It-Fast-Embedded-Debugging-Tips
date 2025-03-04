@@ -6,6 +6,10 @@ This repository is a collection of practical debugging techniques for embedded s
 ✔️ Debugging tools & best practices
 ✔️ Real-world examples for faster troubleshooting
 
+## 📂 Categories  
+🔹 [ Debugging-PCB-Issues ](https://github.com/Pornima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/Debugging-PCB-Issues)
+
+
 💡 New tips added daily/weekly!
 Follow along and contribute or suggest topics via **Issues**. 🚀 
 
