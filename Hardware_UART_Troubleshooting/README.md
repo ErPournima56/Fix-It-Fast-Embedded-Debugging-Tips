@@ -1,6 +1,6 @@
-##📌 Hardware UART Troubleshooting
+## 📌 Hardware UART Troubleshooting
 
-##🛠 Problem
+## 🛠 Problem
 UART communication issues can be frustrating, especially when your device is not transmitting or receiving data correctly. Debugging hardware-related UART problems requires a structured approach to pinpoint the root cause.
 
 🔍 What’s Inside This Folder?
@@ -9,5 +9,5 @@ UART communication issues can be frustrating, especially when your device is not
 
 💡 If you're dealing with UART issues, this guide will help you systematically debug and resolve them.
 
-## 🚀 Contribute
+##  Contribute
 Found a better debugging technique? Feel free to open a PR or suggest improvements!  
