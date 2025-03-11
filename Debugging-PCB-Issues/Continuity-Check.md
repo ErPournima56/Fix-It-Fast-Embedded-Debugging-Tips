@@ -18,3 +18,5 @@ Your circuit is assembled, but some components are not connected properly, leadi
 4. Use a link wire (thin insulated wire) to fix broken traces.
 
 💡 **Pro Tip:**  If a via is not making proper contact, add a small solder bridge or insert a thin wire through it and solder both ends to restore the connection.
+
+⚠️ Warning: Never check continuity when power is being supplied to the circuit. Doing so can damage your multimeter and affect circuit behavior. Always disconnect power before performing a continuity test.
