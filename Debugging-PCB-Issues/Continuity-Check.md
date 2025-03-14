@@ -19,4 +19,4 @@ Your circuit is assembled, but some components are not connected properly, leadi
 
 💡 **Pro Tip:**  If a via is not making proper contact, add a small solder bridge or insert a thin wire through it and solder both ends to restore the connection.
 
-⚠️ Warning: Never check continuity when power is being supplied to the circuit. Doing so can damage your multimeter and affect circuit behavior. Always disconnect power before performing a continuity test.
+⚠️ Warning: Never check continuity while the circuit is powered. Always disconnect the power supply and remove batteries first to avoid damaging the multimeter or affecting circuit behavior.
