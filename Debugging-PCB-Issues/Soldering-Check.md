@@ -5,10 +5,10 @@ Poor soldering can cause **cold joints, shorts, or missing connections**, leadin
 
 ## Solution  
 🔍 Inspect for:  
-✔️ **Cold joints** (dull or uneven solder)  
-✔️ **Bridged solder joints** (unwanted connections between joints)  
-✔️ **Missing solder on critical pads**  
-✔️ Weak solder joints (solder not fully bonding to the pad or pin)
+- **Cold joints** (dull or uneven solder)  
+- **Bridged solder joints** (unwanted connections between joints)  
+- **Missing solder on critical pads**  
+- Weak solder joints (solder not fully bonding to the pad or pin)
 
 🔍 Fix by:  
 - Reflowing solder with a hot air gun or soldering iron  
