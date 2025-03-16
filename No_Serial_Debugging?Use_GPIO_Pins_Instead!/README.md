@@ -1,4 +1,4 @@
-## No Serial Debugging? Use GPIO Instead!
+## # No Serial Debugging? Use GPIO Instead!
 When serial debugging isn't an option, GPIO pins can be a simple yet effective way to debug embedded systems. This folder contains different methods and techniques to use GPIOs for debugging hardware and firmware issues.
 
 ## 🤔 Problem:
