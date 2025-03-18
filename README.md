@@ -9,6 +9,7 @@ This repository is a collection of practical debugging techniques for embedded s
 ## 📂 Categories  
 🔹 [ Debugging-PCB-Issues ](https://github.com/Pornima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/Debugging-PCB-Issues)
 🔹 [ Hardware_UART_Troubleshooting ](https://github.com/Pornima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/Hardware_UART_Troubleshooting)
+🔹 [ No_Serial_Debugging?Use_GPIO_Pins_Instead! ](https://github.com/Pornima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/No_Serial_Debugging%3FUse_GPIO_Pins_Instead!)
 
 
 💡 New tips added daily/weekly!
