@@ -19,7 +19,7 @@ When working with embedded systems, a serial terminal can be a powerful debuggin
    - Select the correct COM PORT ( check it from Device Manager )
 
 ## ✅ Why Use a Serial Terminal for Debugging?
-      ✔ Works on Any MCU with UART
+      ✔ Works in Any MCU with UART
       ✔ No Extra Cost (No JTAG/SWD needed)
       ✔ Quick Field Debugging
       ✔ Lightweight & Effective
