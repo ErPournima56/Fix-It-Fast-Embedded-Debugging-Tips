@@ -11,7 +11,7 @@ This repository is a collection of practical debugging techniques for embedded s
 * [ Hardware_UART_Troubleshooting ](https://github.com/Pornima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/Hardware_UART_Troubleshooting)
 * [ No_Serial_Debugging?Use_GPIO_Pins_Instead! ](https://github.com/Pornima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/No_Serial_Debugging%3FUse_GPIO_Pins_Instead!)
 * [ Serial debugging with printf() ](https://github.com/ErPournima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/Serial%20debugging%20with%20printf())
-* [ No_Serial_Debugging?Use_GPIO_Pins_Instead! ](https://github.com/ErPournima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/No_Serial_Debugging%3FUse_GPIO_Pins_Instead!)
+* [How I Debug Embedded Firmware with Just a Serial Terminal ](https://github.com/ErPournima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/How%20I%20Debug%20Embedded%20Firmware%20with%20%20Just%20a%20Serial%20Terminal)
 * [ How to Pause Time and Find Bugs: Breakpoints Explained! ](https://github.com/ErPournima56/Fix-It-Fast-Embedded-Debugging-Tips/tree/main/How%20to%20Pause%20Time%20and%20Find%20Bugs%3A%20Breakpoints%20Explained!)
 
 
