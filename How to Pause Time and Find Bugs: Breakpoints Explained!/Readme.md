@@ -19,5 +19,5 @@ Breakpoints are debugging tools that allow developers to pause program execution
 * Use step-out to exit a function and return to the caller.
 * Disable or remove breakpoints when no longer needed to avoid unnecessary halts.
 
-##Conclusion
+## Conclusion
 Mastering breakpoints can drastically improve your debugging process, making it easier to detect and fix issues in embedded systems. Whether you're using an IDE or GDB, effective breakpoint management leads to efficient troubleshooting!
