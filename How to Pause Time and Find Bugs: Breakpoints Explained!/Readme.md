@@ -7,3 +7,17 @@ Breakpoints are debugging tools that allow developers to pause program execution
 2.Checking Control Flow: Ensure the code executes as expected.
 3.Identifying Bugs: Find unexpected behavior without print statements.
 
+## Setting Up Breakpoints
+1. Using an IDE (Keil, MPLAB, STM32CubeIDE, Code::Blocks, etc.)
+2. Open your project in the debugger mode.
+3. Click on the line number where you want to pause execution.
+4. Run the program and observe execution when it hits the breakpoint.
+
+## Debugging Tips
+* Use step-over to execute a function without diving into it.
+* Use step-into to analyze function internals.
+* Use step-out to exit a function and return to the caller.
+* Disable or remove breakpoints when no longer needed to avoid unnecessary halts.
+
+##Conclusion
+Mastering breakpoints can drastically improve your debugging process, making it easier to detect and fix issues in embedded systems. Whether you're using an IDE or GDB, effective breakpoint management leads to efficient troubleshooting!
