@@ -17,4 +17,7 @@ Poor soldering can cause **cold joints, shorts, or missing connections**, leadin
 
 💡 **Pro Tip:** If unsure, test **continuity and resistance** across suspicious points!  
 
-⚠️ Warning: Never short any links or PTH points without referring to the schematic, as this can cause unintended circuit failures.
+⚠️ Warning: 
+* Never short any links or PTH points without referring to the schematic, as this can cause unintended circuit failures.
+* Never short VCC and GND directly – This can damage your components or power supply.
+* When adding connectors to your PCB, double-check that power and ground pins are not accidentally bridged.
