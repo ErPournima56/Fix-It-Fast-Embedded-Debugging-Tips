@@ -1,15 +1,20 @@
 ## PWM Signal Debugging with Analog Discovery 2 (AD2)
 While observing a square wave signal using the Digilent WaveForms software and hardware (Analog Discovery 2), I noticed consistent high-frequency ringing or noise artifacts immediately after rising and falling edges of the waveform.
-[ View Full Signal in WaveForms]( https://github.com/ErPournima56/Fix-It-Fast-Embedded-Debugging-Tips/blob/main/Diagnosing%20PWM%20Edge%20Artifacts%20in%20WaveForms%20with%20AD2/pwm_modulated_by_sine.png )
+Full Signal in WaveForms 
+![image](https://github.com/user-attachments/assets/25beb11c-99bc-4ff6-88b9-41e43a95770c)
+
 
 ## Issue: Ringing in PWM Signal
-[Zoomed-In View of Artifacts](https://github.com/ErPournima56/Fix-It-Fast-Embedded-Debugging-Tips/blob/main/Diagnosing%20PWM%20Edge%20Artifacts%20in%20WaveForms%20with%20AD2/pwm_edge_artifact_zoom.png )
+Zoomed-In View of Artifacts
+![image](https://github.com/user-attachments/assets/f207e766-3907-4955-9ecb-3a2da1dbce0c)
+
 
 🔍 Observations
 * The artifacts appear as light red oscillations near sharp transitions.
 * They repeat consistently at each rising or falling edge.
 * Appears localized to high-speed transitions, suggesting they’re not random noise.
-[ Final Zoom-in Clear Ringing Example ]( ![image](https://github.com/user-attachments/assets/cecfdf62-dbf9-4e90-b47f-6b74e99cf7fd)
+* Final Zoom-in Clear Ringing Example
+( ![image](https://github.com/user-attachments/assets/cecfdf62-dbf9-4e90-b47f-6b74e99cf7fd)
 
 💡 Possible Causes
 Likely caused by signal integrity issues such as:
