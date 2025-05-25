@@ -17,16 +17,17 @@ Zoomed-In View of Artifacts
 ![image](https://github.com/user-attachments/assets/cecfdf62-dbf9-4e90-b47f-6b74e99cf7fd)
 
 💡 Possible Causes
-Likely caused by signal integrity issues such as:
+* Likely caused by signal integrity issues such as:
 ⚠️ Ringing due to impedance mismatch between the signal source, cable, and oscilloscope input.
 🔌 Long or unshielded probe ground leads introducing inductance.
 📶 Fast edge rate of the generated square wave (i.e. steep rise/fall times).
 📡 Electromagnetic interference (EMI) from nearby digital sources.  
 
+
 ## Troubleshooting Steps
 * Switch to Normal mode in WaveForms (avoid Averaging or Persistence unless needed).
-*  Use software filtering or digital smoothing to verify signal integrity.
-*   Compare results with slower edge transitions (or a sine wave) to confirm it's ringing, not random noise.
+* Use software filtering or digital smoothing to verify signal integrity.
+* Compare results with slower edge transitions (or a sine wave) to confirm it's ringing, not random noise.
 
   
 ## Tip
