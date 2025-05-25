@@ -14,7 +14,7 @@ Zoomed-In View of Artifacts
 * They repeat consistently at each rising or falling edge.
 * Appears localized to high-speed transitions, suggesting they’re not random noise.
 * Final Zoom-in Clear Ringing Example
-( ![image](https://github.com/user-attachments/assets/cecfdf62-dbf9-4e90-b47f-6b74e99cf7fd)
+![image](https://github.com/user-attachments/assets/cecfdf62-dbf9-4e90-b47f-6b74e99cf7fd)
 
 💡 Possible Causes
 Likely caused by signal integrity issues such as:
@@ -23,5 +23,11 @@ Likely caused by signal integrity issues such as:
 📶 Fast edge rate of the generated square wave (i.e. steep rise/fall times).
 📡 Electromagnetic interference (EMI) from nearby digital sources.  
 
+## Troubleshooting Steps
+* Switch to Normal mode in WaveForms (avoid Averaging or Persistence unless needed).
+*  Use software filtering or digital smoothing to verify signal integrity.
+*   Compare results with slower edge transitions (or a sine wave) to confirm it's ringing, not random noise.
+
+  
 ## Tip
 Zoom in on the signal transitions when debugging PWM signals. The persistence display can reveal glitches or anomalies not visible in a single-shot view.
